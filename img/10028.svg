@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>点亮</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-未登录" transform="translate(-375.000000, -414.000000)">
+            <g id="banner" transform="translate(0.000000, -62.000000)">
+                <g id="背景-2">
+                    <g id="翻页滑动点点点" transform="translate(375.000000, 476.000000)">
+                        <g id="点亮">
+                            <rect id="矩形" stroke="#FFFFFF" stroke-width="2" x="1" y="1" width="10" height="10" rx="5"></rect>
+                            <rect id="矩形" stroke="#979797" fill="#FFFFFF" x="4.5" y="4.5" width="3" height="3" rx="1.5"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

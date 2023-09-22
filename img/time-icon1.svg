@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>时间icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-未登录" transform="translate(-130.000000, -985.000000)">
+            <g id="热门实战营" transform="translate(40.000000, 743.000000)">
+                <g id="实战营01" transform="translate(60.000000, 48.000000)">
+                    <g id="编组-4">
+                        <g id="编组-7" transform="translate(30.000000, 192.000000)">
+                            <g id="icon/time2" transform="translate(0.000000, 2.000000)">
+                                <circle id="椭圆形" transform="translate(8.000000, 8.000000) rotate(-180.000000) translate(-8.000000, -8.000000) " cx="8" cy="8" r="7"></circle>
+                                <polyline id="路径-7" stroke="#1E1E1E" stroke-width="2" points="7 5 7 9 11 9"></polyline>
+                                <rect id="矩形" stroke="#1E1E1E" stroke-width="2" x="1" y="1" width="14" height="14" rx="7"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
